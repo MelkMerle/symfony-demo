@@ -1,5 +1,6 @@
 Symfony Demo Application
 ========================
+coucouc je suis la
 
 The "Symfony Demo Application" is a reference application created to show how
 to develop Symfony applications following the recommended best practices.
